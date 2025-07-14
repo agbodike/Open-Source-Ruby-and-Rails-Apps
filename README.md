@@ -50,7 +50,7 @@ Hey friend! Help me out for a couple of ☕️
 - [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥 ✅ 🚀
 - [monocle](https://github.com/maccman/monocle) - Link and news sharing 👴 ✅
 - [openstreetmap](https://github.com/openstreetmap/openstreetmap-website) - The Rails application that powers OpenStreetMap 🔥 ✅ 🚀
-- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 🔥 ✅ 🚀
+- [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge. You can grow anything! 🔥 ✅ 🚀 (Note: Servers have shut down and project is no longer maintained)
 - [Openfoodnetwork](https://github.com/openfoodfoundation/openfoodnetwork) - Connect suppliers, distributors and consumers to trade local produce 🔥 ✅ 🚀
    - **AirBnb**
      - [airbnb_clone](https://github.com/mrkchoi/airbnb_clone) - Airbnb clone with React, Redux, and Rails backend. Allows users to sign up, find listings, book a stay and much more! 🔥 ✅ 🚀
